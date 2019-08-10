@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1 style="color:rgb(255, 72, 0); font-size:30px"> The Top 5 Recommendations for your search "{{x}}" are </h1>
+<p>Tip: Click on the Amazon link to buy the product!!</p>
+{% for i in range(0,5) %}
+    <h1 style="text-transform:uppercase; font-size:25px">{{i+1}}:  {{recs[i]}} </h1>
+    <img src={{url[i]}} width="150" height="150">
+    <a style="font-size:25px"  href={{filename[i]}}>Amazon link</a> <br>
+{% endfor %}  
+
+<br>
+<p >NOTE::Some Amazon product links may not show the product as it may be removed from the website!</p>
+<p >Sorry for the inconvenience</p>
+
+{% endblock %}
