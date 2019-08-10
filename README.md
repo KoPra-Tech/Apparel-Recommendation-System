@@ -12,6 +12,9 @@
 #### 5. Akshay Kumar Gyara
 
 ### Application link - https://reccappui.herokuapp.com/
+
+### Presentation link - https://www.youtube.com/watch?v=QZIGFmD_MWQ&feature=youtu.be
+
 ### [Link to Report](https://github.com/SandeepJ97/CMPE256-AmazonApparelRecommendation/blob/master/Amazon%20Apparel%20Recommendation%20System.pdf)
 ### [Link to Source Code](https://github.com/SandeepJ97/CMPE256-AmazonApparelRecommendation/blob/master/Amazon_Apparel_Recommendation.ipynb)
 
