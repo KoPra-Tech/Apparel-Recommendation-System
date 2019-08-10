@@ -4,7 +4,7 @@
 #### Instructor: Shih Yu Chang
 
 ### Group Members
-#### 1. Sai Sandeep Jytohula 
+#### 1. Sai Sandeep Jyothula 
 #### 2. Naga Abhilash Reddy
 #### 3. Sai Sarath Vattikuti
 #### 4. Sai Kumar Reddy
