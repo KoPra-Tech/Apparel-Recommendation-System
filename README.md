@@ -6,9 +6,9 @@
 
 ### Group Members
 #### 1. Sai Sandeep Jyothula 
-#### 2. Naga Abhilash Reddy
+#### 2. Naga Abhilash Reddy Julakanti
 #### 3. Sai Sarath Vattikuti
-#### 4. Sai Kumar Reddy
+#### 4. Sai Kumar Reddy Sandannagari
 #### 5. Akshay Kumar Gyara
 
 ### Application link - https://reccappui.herokuapp.com/
