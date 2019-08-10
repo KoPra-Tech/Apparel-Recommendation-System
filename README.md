@@ -1,7 +1,8 @@
 # CMPE256-AmazonApparelRecommendation
-### Group Project
+### Group Project (Group Number 5)
 #### Course: CMPE256 Summer 2019
 #### Instructor: Shih Yu Chang
+
 
 ### Group Members
 #### 1. Sai Sandeep Jyothula 
