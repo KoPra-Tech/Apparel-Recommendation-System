@@ -1,19 +1,4 @@
-# CMPE256-AmazonApparelRecommendation
-##### Group Project (Group Number 5)
-#### Course: CMPE256 Summer 2019
-#### Instructor: Shih Yu Chang
-
-
-### Group Members
-#### 1. Sai Sandeep Jyothula 
-#### 2. Naga Abhilash Reddy Julakanti
-#### 3. Sai Sarath Vattikuti
-#### 4. Sai Kumar Reddy Sandannagari
-#### 5. Akshay Kumar Gyara
-
-### Application link - https://reccappui.herokuapp.com/
-
-### Presentation link - https://www.youtube.com/watch?v=QZIGFmD_MWQ&feature=youtu.be
+# Apparel Recommendation System
 
 ### [Link to Report](https://github.com/SandeepJ97/CMPE256-AmazonApparelRecommendation/blob/master/Amazon%20Apparel%20Recommendation%20System.pdf)
 ### [Link to Source Code](https://github.com/SandeepJ97/CMPE256-AmazonApparelRecommendation/blob/master/Amazon_Apparel_Recommendation.ipynb)
